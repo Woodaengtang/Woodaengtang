@@ -5,4 +5,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Woodaengtang&layout=compact)](https://github.com/CMaybe/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Woodaengtang&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](http://streak-stats.herokuapp.com?user=Woodaengtang&hide_border=true)](https://git.io/streak-stats)
