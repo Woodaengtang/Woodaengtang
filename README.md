@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @Woodaengtang
-- 👀 I’m interested in estimation, optimization and Control theory.
-- 🌱 I’m currently learning programming skills.
-- 📫 E-mail : jhwoo200@gmail.com
+- Hi, I’m @Woodaengtang
+- I’m interested in Estimation, Optimization and Control theory.
+- E-mail : jhwoo200@gmail.com
