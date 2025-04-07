@@ -19,7 +19,7 @@ I am a Mechanical Engineering researcher specializing in control theories, optim
 
 - **MS in Mechanical Engineering**  
   Chung-Ang University, Seoul, Korea (Mar 2025 – Present)  
-  *Advisor: Seokwon Lee*
+  *Advisor: Seokwon Lee* in [Autonomous and Intelligent Systems Lab](https://cau-aisl.github.io/)
 
 - **BS in Mechanical Engineering**  
   Chung-Ang University, Seoul, Korea (Mar 2019 – Feb 2025)  
@@ -29,8 +29,8 @@ I am a Mechanical Engineering researcher specializing in control theories, optim
 
 ## 🔬 Research Interests
 
-- Control Theories with Optimization and Estimation  
-- Application of Artificial Intelligence in Dynamic Systems
+- **Control Theories** with **Optimization** and **Estimation**  
+- **Application of Artificial Intelligence** in Dynamic Systems
 
 ---
 
