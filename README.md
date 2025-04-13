@@ -17,8 +17,8 @@ I am a Mechanical Engineering researcher specializing in control theories, optim
 Feel free to reach out for collaborations, opportunities, or just to talk about innovative systems!
 
 <p align="left">
-  <a href="mailto:jhwoo200@gmail.com">
-    <img src="https://img.shields.io/badge/Email-jhwoo200@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="https://github.com/Woodaengtang">
+    <img src="https://img.shields.io/badge/GitHub-Woodaengtang-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
   </a>
   <a href="https://www.youtube.com/@coffeesaurs">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
