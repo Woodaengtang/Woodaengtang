@@ -127,7 +127,13 @@ Feel free to reach out for collaborations, opportunities, or just to talk about 
   <a href="mailto:jhwoo200@gmail.com">
     <img src="https://img.shields.io/badge/Email-jhwoo200@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-profile">
+  <a href="https://www.youtube.com/@coffeesaurs">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+  <a href="https://woodaengtang.github.io/">
+    <img src="https://img.shields.io/badge/Website-My%20Homepage-blue?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/>
+  </a>
+  <a href="https://linkedin.com/in/jonghyun-woo-99a8b5288">
     <img src="https://img.shields.io/badge/LinkedIn-Jonghyun_Woo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
