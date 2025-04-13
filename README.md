@@ -36,7 +36,7 @@ Feel free to reach out for collaborations, opportunities, or just to talk about 
 
 - **MS in Mechanical Engineering**  
   Chung-Ang University, Seoul, Korea (Mar 2025 – Present)  
-  *Advisor: Seokwon Lee* in [Autonomous and Intelligent Systems Lab](https://cau-aisl.github.io/)
+  Advisor: Prof. Seokwon Lee in [Autonomous and Intelligent Systems Lab](https://cau-aisl.github.io/)
 
 - **BS in Mechanical Engineering**  
   Chung-Ang University, Seoul, Korea (Mar 2019 – Feb 2025)  
