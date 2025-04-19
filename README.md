@@ -4,7 +4,6 @@
   <img src="https://img.shields.io/badge/MATLAB-FFDD00?style=for-the-badge&logo=mathworks&logoColor=black" alt="MATLAB"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
 </p>
 
 
