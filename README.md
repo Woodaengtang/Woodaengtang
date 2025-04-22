@@ -108,7 +108,7 @@ Feel free to reach out for collaborations, opportunities, or just to talk about 
 ## 🛠 Skills
 
 **Programming Languages:**  
-[![MATLAB](https://img.shields.io/badge/MATLAB-FFDD00?style=flat-square&logo=mathworks&logoColor=black)](https://www.mathworks.com/) [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)  [![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://isocpp.org/)  [![C](https://img.shields.io/badge/C-555555?style=flat-square&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![MATLAB](https://img.shields.io/badge/MATLAB-FFDD00?style=flat-square&logo=mathworks&logoColor=black)](https://www.mathworks.com/) [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)  [![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://isocpp.org/)
 
 **Engineering Tools:**  
 CAD (Inventor, CATIA), 3D Printing, VICON
