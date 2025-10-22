@@ -116,18 +116,6 @@ CAD (Inventor, CATIA), 3D Printing, VICON
 **Other Skills:**  
 Video Editing, Multicopter Piloting
 
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/Woodaengtang">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Woodaengtang&show_icons=true&theme=default" alt="GitHub Stats"/>
-  </a>
-  <a href="https://github.com/Woodaengtang">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Woodaengtang&layout=compact&theme=default" alt="Top Languages"/>
-  </a>
-</p>
-
 ## 🌐 Languages
 
 - **Korean:** Native
